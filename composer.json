@@ -8,7 +8,9 @@
             "email": "spillarlive@sina.cn"
         }
     ],
-    "require": {},
+    "require": {
+        "phpunit/phpunit": "^8.3"
+    },
     "autoload": {
         "psr-4": {
             "Spillar\\Armo\\": "src"
