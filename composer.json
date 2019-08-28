@@ -1,0 +1,17 @@
+{
+    "name": "spillar\/armo",
+    "description": "A Temp Pro",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "spillar",
+            "email": "spillarlive@sina.cn"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Spillar\\Armo\\": "src"
+        }
+    }
+}
